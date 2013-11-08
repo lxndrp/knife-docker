@@ -1,0 +1,6 @@
+{
+  "name": "base_container_template",
+  "docker_url": "http://127.0.0.1:9191",
+  "docker_base_image": "centos",
+  "chef_encrypted_data_bag_key_path": "/var/chef/encrypted_data_bag_key"
+}
